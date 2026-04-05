@@ -99,7 +99,7 @@ _LangChain • Redis • PostgreSQL • MCP_
 _Python • LangChain • ChromaDB • OpenAI Embeddings_
 
 ```
-[██████████░] 80% COMPLETE
+[██████████ ] 80% COMPLETE
 > Auto-generates Selenium test scripts from natural language
 > Hybrid retrieval: semantic (dense) + keyword (BM25)
 > 60-90% cost reduction on LLM inference

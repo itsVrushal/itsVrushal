@@ -54,7 +54,7 @@
 
 ## 🛡️ CURRENT QUEST (Experience)
 
-### PTC Pune | _Machine Learning & Agentic AI Developer Intern_ 🔮
+### PTC | _Machine Learning & Agentic AI Developer Intern_ 🔮
 
 > _Active Quest: Building Multi-Agent AI Systems_
 

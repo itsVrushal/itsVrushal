@@ -1,19 +1,19 @@
 <!---
-  ███╗   ███╗ ██████╗ ███╗   ██╗███████╗████████╗███████╗██████╗ 
+  ███╗   ███╗ ██████╗ ███╗   ██╗███████╗████████╗███████╗██████╗
   ████╗ ████║██╔═══██╗████╗  ██║██╔════╝╚══██╔══╝██╔════╝██╔══██╗
   ██╔████╔██║██║   ██║██╔██╗ ██║█████╗     ██║   █████╗  ██████╔╝
   ██║╚██╔╝██║██║   ██║██║╚██╗██║██╔══╝     ██║   ██╔══╝  ██╔══██╗
   ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║███████╗   ██║   ███████╗██║  ██║
   ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-                                                     
+
   ██████╗ ███████╗███████╗██╗     ██╗███╗   ██╗███████╗
   ██╔══██╗██╔════╝██╔════╝██║     ██║████╗  ██║██╔════╝
-  ██║  ██║█████╗  █████╗  ██║     ██║██╔██╗ ██║█████╗  
-  ██║  ██║██╔══╝  ██╔══╝  ██║     ██║██║╚██╗██║██╔══╝  
+  ██║  ██║█████╗  █████╗  ██║     ██║██╔██╗ ██║█████╗
+  ██║  ██║██╔══╝  ██╔══╝  ██║     ██║██║╚██╗██║██╔══╝
   ██████╔╝███████╗██║     ███████╗██║██║ ╚████║███████╗
   ╚═════╝ ╚══════╝╚═╝     ╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
-                                                      
-  ███╗   ███╗ ██████╗ ███╗   ██║███████╗████████╗███████╗██████╗ 
+
+  ███╗   ███╗ ██████╗ ███╗   ██║███████╗████████╗███████╗██████╗
   ████╗ ████║██╔═══██╗████╗  ██║██╔════╝╚══██╔══╝██╔════╝██╔══██╗
   ██╔████╔██║██║   ██║██╔██╗ ██║█████╗     ██║   █████╗  ██████╔╝
   ██║╚██╔╝██║██║   ██║██║╚██╗██║██╔══╝     ██║   ██╔══╝  ██╔══██╗
@@ -26,7 +26,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:355C3B,50:4A7C59,100:6B8E6B&height=300&section=header&text=Vrushal%20Patil&fontSize=80&animation=fadeIn&fontAlignY=35&strokeWidth=0)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&center=true&vCenter=true&width=440&lines=ML+%26+Agentic+AI+Developer;Building+Intelligent+Systems;Leveling+Up+Every+Day&color=0:355C3B,100:6B8E6B" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&center=true&vCenter=true&width=380&lines=ML+%26+Agentic+AI+Developer;Building+Intelligent+Systems;Leveling+Up+Every+Day&color=0:355C3B,100:6B8E6B" />
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/itsVrushal?logo=github&style=for-the-badge&color=355C3B)](https://github.com/itsVrushal)
@@ -54,34 +54,37 @@
 
 ## 🛡️ CURRENT QUEST (Experience)
 
-### PTC Pune | *Machine Learning & Agentic AI Developer Intern* 🔮
-> *Active Quest: Building Multi-Agent AI Systems*
+### PTC Pune | _Machine Learning & Agentic AI Developer Intern_ 🔮
 
-| Skill | Effect |
-|-------|--------|
+> _Active Quest: Building Multi-Agent AI Systems_
+
+| Skill                     | Effect                                                             |
+| ------------------------- | ------------------------------------------------------------------ |
 | Multi-Agent Orchestration | LangChain-powered autonomous routing across Snowflake + PostgreSQL |
-| Semantic Caching | **801× speedup** (31.9s → 0.03s) via Redis caching |
-| LLM Optimization | 60-90% fewer API calls, 10-50ms latency on cache hits |
-| Token Efficiency | Processed **1.15M+ tokens / 219 API calls**, 4.8× faster |
-| MCP Servers | Built plug-and-play Model Context Protocol servers |
-| Session Memory | Multi-tenant deployments with summarization |
+| Semantic Caching          | **801× speedup** (31.9s → 0.03s) via Redis caching                 |
+| LLM Optimization          | 60-90% fewer API calls, 10-50ms latency on cache hits              |
+| Token Efficiency          | Processed **1.15M+ tokens / 219 API calls**, 4.8× faster           |
+| MCP Servers               | Built plug-and-play Model Context Protocol servers                 |
+| Session Memory            | Multi-tenant deployments with summarization                        |
 
-### OneShot Technologies | *Founding Engineer* 📹
-> *Main Quest: Video Monitoring Platform*
+### OneShot Technologies | _Founding Engineer_ 📹
 
-| Achievement | Description |
-|-------------|-------------|
-| RTSP→WebRTC | Multi-brand IP camera integration using go2rtc |
-| Edge Gateway | VPN-secured infrastructure for 300+ remote sites |
-| Real-time Streaming | Secure, zero public exposure, E2E encrypted |
-| Cost Reduction | $0 licensing via open-source stack |
+> _Main Quest: Video Monitoring Platform_
+
+| Achievement         | Description                                      |
+| ------------------- | ------------------------------------------------ |
+| RTSP→WebRTC         | Multi-brand IP camera integration using go2rtc   |
+| Edge Gateway        | VPN-secured infrastructure for 300+ remote sites |
+| Real-time Streaming | Secure, zero public exposure, E2E encrypted      |
+| Cost Reduction      | $0 licensing via open-source stack               |
 
 ---
 
 ## 🗺️ SIDE QUESTS (Projects)
 
 ### 🎯 Multi-Agentic AI Orchestration Network
-*LangChain • Redis • PostgreSQL • MCP*
+
+_LangChain • Redis • PostgreSQL • MCP_
 
 ```
 [████████████] 100% COMPLETE
@@ -92,7 +95,8 @@
 ```
 
 ### 🎯 Selenium Script Generator RAG
-*Python • LangChain • ChromaDB • OpenAI Embeddings*
+
+_Python • LangChain • ChromaDB • OpenAI Embeddings_
 
 ```
 [██████████░] 80% COMPLETE
@@ -103,7 +107,8 @@
 ```
 
 ### 🎯 Cyberbullying Detection (ML Study)
-*Python • Scikit-learn • NLP • Render/Vercel*
+
+_Python • Scikit-learn • NLP • Render/Vercel_
 
 ```
 [████████████] 100% COMPLETE
@@ -114,7 +119,8 @@
 ```
 
 ### 🎯 Multi-Brand Camera Integration (MMRDA)
-*YOLO • OpenCV • RTSP • WebRTC*
+
+_YOLO • OpenCV • RTSP • WebRTC_
 
 ```
 [████████████] 100% COMPLETE
@@ -129,29 +135,34 @@
 ## 🧪 INVENTORY (Skills)
 
 ### 🔤 Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
 ### 🤖 AI / Agentic Systems
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C4C3C?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-2D5A4A?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-355C3B?style=flat-square)
 ![LLM](https://img.shields.io/badge/LLM-4A7C59?style=flat-square)
 
 ### 📊 ML / Data Science
+
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00D1F2?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-355C3B?style=flat-square)
 
 ### 💾 Databases & Caching
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-355C3B?style=flat-square)
 
 ### ⚙️ DevOps & Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
@@ -211,14 +222,14 @@
 
 ![Pokemon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Palms%20Up%20Together.png)
 
-*Join me on this adventure!* 🌟
+_Join me on this adventure!_ 🌟
 
 </div>
 
 ---
 
 <!---
-  GAME OVER? NEVER! 
+  GAME OVER? NEVER!
   This dev is still grinding XP and unlocking new skills...
   [NEXT LEVEL: ████████░░] 75% complete
 -->

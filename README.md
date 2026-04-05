@@ -190,8 +190,6 @@ _YOLO • OpenCV • RTSP • WebRTC_
 
 </p> -->
 
----
-
 ## 💬 START A CONVERSATION
 
 <p align="center">

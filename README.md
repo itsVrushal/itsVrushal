@@ -118,7 +118,7 @@ _Python • Scikit-learn • NLP • Render/Vercel_
 > 📖 Published in Springer LNNS (ICTIS 2024, Scopus-indexed)
 ```
 
-### 🎯 Multi-Brand Camera Integration (MMRDA)
+### 🎯 Multi-Brand Camera Integration
 
 _YOLO • OpenCV • RTSP • WebRTC_
 
@@ -127,7 +127,6 @@ _YOLO • OpenCV • RTSP • WebRTC_
 > Real-time 4K streaming across 10+ sites
 > 60% bandwidth reduction via dual-stream
 > 95% accuracy for safety monitoring
-> 🎖️ Runner-Up at HackMITWPU'24
 ```
 
 ---
@@ -203,7 +202,7 @@ _YOLO • OpenCV • RTSP • WebRTC_
 <a href="mailto:pvrushal.2005@gmail.com">
 <img src="https://cdn-icons-png.flaticon.com/512/542/542638.png" width="40" height="40" alt="Email">
 </a>
-<a href="https://vrushal.vercel.app">
+<a href="https://vrushal-patil.vercel.app">
 <img src="https://cdn-icons-png.flaticon.com/512/2164/2164941.png" width="40" height="40" alt="Portfolio">
 </a>
 </p>
@@ -215,8 +214,7 @@ _YOLO • OpenCV • RTSP • WebRTC_
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║           POWERED BY COFFEE ☕ & CURIOSITY 🔍                   ║
-║                  Thanks for visiting!                          ║
-║                      [PRESS START]                             ║
+║                  Thanks for visiting!                            ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 

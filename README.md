@@ -32,7 +32,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/itsVrushal?logo=github&style=for-the-badge&color=355C3B)](https://github.com/itsVrushal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-007337?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vrushal-patil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pvrushal.2005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Gameboy%20Style?style=for-the-badge&color=355C3B)](https://vrushal.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Gameboy%20Style?style=for-the-badge&color=355C3B)](https://vrushal-patil.vercel.app)
 
 </div>
 

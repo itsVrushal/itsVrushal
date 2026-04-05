@@ -41,11 +41,11 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  NAME:     Vrushal Patil                                          ║
-║  CLASS:    ML & Agentic AI Developer                               ║
-║  LEVEL:    B.Tech AI & DS (VIT Pune)                              ║
-║  HP:       CGPA: 9.06                                             ║
-║  LOCATION: Pune, Maharashtra                                       ║
+║  NAME:     Vrushal Patil                                         ║
+║  CLASS:    ML & Agentic AI Developer                             ║
+║  LEVEL:    B.Tech AI & DS (VIT Pune)                             ║
+║  HP:       CGPA: 9.06                                            ║
+║  LOCATION: Pune, Maharashtra                                     ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 

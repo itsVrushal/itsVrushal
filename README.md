@@ -180,7 +180,7 @@ _YOLO • OpenCV • RTSP • WebRTC_
 
 ---
 
-## 📊 LEVEL PROGRESS
+<!-- ## 📊 LEVEL PROGRESS
 
 <p align="center">
 
@@ -188,7 +188,7 @@ _YOLO • OpenCV • RTSP • WebRTC_
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsVrushal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0,355C3B,4A7C59&title_color=6B8E6B&text_color=C5D5C5)
 
-</p>
+</p> -->
 
 ---
 
